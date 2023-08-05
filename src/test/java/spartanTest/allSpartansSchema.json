@@ -1,0 +1,42 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "type": "array",
+  "items": {
+    "$ref": "#/definitions/Welcome10Element"
+  },
+  "definitions": {
+    "Welcome10Element": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "gender": {
+          "$ref": "#/definitions/Gender"
+        },
+        "phone": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "gender",
+        "id",
+        "name",
+        "phone"
+      ],
+      "title": "Welcome10Element"
+    },
+    "Gender": {
+      "type": "string",
+      "enum": [
+        "Female",
+        "Male"
+      ],
+      "title": "Gender"
+    }
+  }
+}
