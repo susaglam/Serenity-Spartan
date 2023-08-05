@@ -39,18 +39,18 @@ public class JsonToJavaObject extends TestBase {
         Map<String, Object> sparan5 = response.as(Map.class);
         System.out.println(sparan5);
 
-        Assertions.assertEquals("Blythe",sparan5.get("name"));
+        Assertions.assertEquals("Blythe", sparan5.get("name"));
     }
 
     @Test
-    public void test3(){
+    public void test3() {
         Response response = given().accept(ContentType.JSON)
                 .when().get("https://demoqa.com/BookStore/v1/Books");
 //        response.prettyPrint();
 
         JsonPath jsonPath = response.jsonPath();
 
-        List<Map<String,Object>> books = jsonPath.getList("books");
+        List<Map<String, Object>> books = jsonPath.getList("books");
 
         System.out.println(books.size());
         System.out.println(books);
@@ -60,11 +60,10 @@ public class JsonToJavaObject extends TestBase {
     }
 
 
-
     // convert response to custom class object
     // single spartan example
     @Test
-    public void test4(){
+    public void test4() {
         Response response = RestAssured.given().accept(ContentType.JSON)
                 .when().get("http://3.216.30.92:8000/api/spartans/30");
 
@@ -77,9 +76,9 @@ public class JsonToJavaObject extends TestBase {
 
     // search spartan response
     @Test
-    public void test5(){
+    public void test5() {
         Response response = RestAssured.given().accept(ContentType.JSON)
-                .and().queryParam("nameContains","Da")
+                .and().queryParam("nameContains", "Da")
                 .when().get("http://3.216.30.92:8000/api/spartans/search");
 
         response.prettyPrint();
@@ -90,7 +89,7 @@ public class JsonToJavaObject extends TestBase {
     }
 
     @Test
-    public void test6(){
+    public void test6() {
         Response response = RestAssured.given().accept(ContentType.JSON)
                 .get("http://3.216.30.92:1000/ords/hr/regions");
 
@@ -99,14 +98,14 @@ public class JsonToJavaObject extends TestBase {
         Region region = response.as(Region.class);
         System.out.println(region);
 
-        Assertions.assertEquals(4,region.getCount());
-        Assertions.assertEquals("Americas",region.getItems().get(1).getRegion_name());
-        Assertions.assertEquals("Americas",response.path("items[1].region_name"));
+        Assertions.assertEquals(4, region.getCount());
+        Assertions.assertEquals("Americas", region.getItems().get(1).getRegion_name());
+        Assertions.assertEquals("Americas", response.path("items[1].region_name"));
 
     }
 
     @Test
-    public void test7(){
+    public void test7() {
         Response response = RestAssured.given().accept(ContentType.JSON)
                 .get("http://3.216.30.92:1000/ords/hr/jobs");
 

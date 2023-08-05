@@ -11,16 +11,16 @@ import static io.restassured.RestAssured.given;
 public class PatchMethod extends TestBase {
 
     @Test
-    public void test1(){
+    public void test1() {
         Map<String, Object> patchBody = new HashMap<>();
-        patchBody.put("name","Harold");
+        patchBody.put("name", "Harold");
 
         Response response = given().accept(ContentType.JSON)
                 .and().contentType(ContentType.JSON)
-                .and().pathParam("id",300)
+                .and().pathParam("id", 300)
                 .and().body(patchBody)
                 .when().patch("/api/spartans/{id}");
 
-        Assertions.assertEquals(204,response.statusCode());
+        Assertions.assertEquals(204, response.statusCode());
     }
 }
