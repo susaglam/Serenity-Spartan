@@ -5,399 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9a2a273-7417-47f8-8832-955dfa6e9cbb" name="Changes" comment="project created">
-      <change afterPath="$PROJECT_DIR$/../.NetMAUIWeatherApp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Database_API_Testing_BootCamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EU10_DatabaseTesting_OfficeHour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EU4CucumberSelenium" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EU4KarateFramework" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EU4TestNGSelenium" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EUFastTrackSelenium" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ILSpy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java_Interview_Coding_Tasks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java_Interview_Coding_Tasks-master.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mapsui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MsSQLAdmin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Performance_Testing_JMeter_Assign" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_Programming" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SagaBlazor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/config/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/src/main/java/DataProviders/ConfigFileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/src/main/java/Enums/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/src/main/java/Enums/DriverType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/src/main/java/Enums/EnvironmentType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/src/main/java/Managers/AllDriverManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/src/main/java/Managers/FileReaderManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/src/main/java/Managers/PageObjectManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/src/main/java/PageObjects/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/src/main/java/PageObjects/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/src/main/java/PageObjects/ProductDetailPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/src/main/java/PageObjects/ProductListPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/src/main/java/Utilities/ScenarioContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/src/main/java/Utilities/TestContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/src/main/java/Utilities/Wait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/src/test/java/Runners/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/src/test/java/StepDefinitions/CartSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/src/test/java/StepDefinitions/HomeSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/src/test/java/StepDefinitions/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/src/test/java/StepDefinitions/LoginSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/src/test/java/StepDefinitions/ProductDetailSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/src/test/java/StepDefinitions/SearchSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/src/test/resources/cucumber.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/src/test/resources/features/CartTests.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/src/test/resources/features/LoginTests.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/src/test/resources/features/LogoutTests.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/src/test/resources/features/ProductDetailTests.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium-Cucumber-Framework/src/test/resources/features/SearchTests.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SolidCP" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SqlWebAdmin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TransmudaWebApplication" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeatherTwentyOne" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/.gradle/6.5/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/.gradle/6.5/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/.gradle/6.5/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/.gradle/6.5/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/.gradle/workspace-id.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/.gradle/workspace-id.txt.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/Specification.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/app/EriBank.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/build/classes/java/main/mobile_testing_app/Assignment.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/build/classes/java/main/mobile_testing_app/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/build/classes/java/main/mobile_testing_app/MobileTesting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/build/distributions/Mobile_Testing_App.tar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/build/distributions/Mobile_Testing_App.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/build/libs/Mobile_Testing_App.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/build/scripts/Mobile_Testing_App" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/build/scripts/Mobile_Testing_App.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/build/tmp/jar/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/local.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/results/OutputFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/src/main/java/mobile_testing_app/Assignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/src/main/java/mobile_testing_app/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/Assign/src/main/java/mobile_testing_app/MobileTesting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/OutputFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/week-2/Assignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web-and-Mobile-Testing-with-Selenium/week-2/Functional Testing with Selenium Quiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../XAF_Security_E4908" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../agile-group-project-documentation" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/about-parent.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/about-student.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/about-teacher.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/activities.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/add-blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/add-contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/add-employee.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/add-exam.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/add-parent.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/add-student.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/add-teacher.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/all-employees.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/all-parents.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/all-students.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/all-teachers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/css/bootstrap-datetimepicker.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/css/dataTables.bootstrap4.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/css/fullcalendar.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/css/jquery.dataTables.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/css/select2.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/css/tagsinput.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/img/attachment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/img/bg-account.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/img/blog/blog-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/img/blog/blog-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/img/blog/blog-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/img/blog/blog-04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/img/blog/blog-thumb-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/img/blog/blog-thumb-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/img/blog/blog-thumb-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/img/blog/blog-thumb-04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/img/calander.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/img/placeholder-thumb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/img/placeholder.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/img/user-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/img/user-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/img/user-04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/img/user-05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/img/user-06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/img/user.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/img/video-call.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/js/bootstrap-datetimepicker.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/js/chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/js/dataTables.bootstrap4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/js/fullcalendar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/js/html5shiv.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/js/jquery-3.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/js/jquery.dataTables.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/js/jquery.fullcalendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/js/jquery.slimscroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/js/modernizr.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/js/moment.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/js/respond.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/js/select2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/js/tagsinput.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/plugins/light-gallery/css/lg-fb-comment-box.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/plugins/light-gallery/css/lg-fb-comment-box.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/plugins/light-gallery/css/lg-transitions.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/plugins/light-gallery/css/lg-transitions.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/plugins/light-gallery/css/lightgallery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/plugins/light-gallery/css/lightgallery.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/plugins/light-gallery/fonts/lg.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/plugins/light-gallery/fonts/lg.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/plugins/light-gallery/fonts/lg.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/plugins/light-gallery/fonts/lg.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/plugins/light-gallery/img/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/plugins/light-gallery/img/video-play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/plugins/light-gallery/img/vimeo-play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/plugins/light-gallery/img/youtube-play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/plugins/light-gallery/js/lightgallery-all.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/plugins/light-gallery/js/lightgallery-all.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/plugins/light-gallery/js/lightgallery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/plugins/light-gallery/js/lightgallery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/plugins/morris/morris.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/plugins/morris/morris.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/plugins/morris/morris.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/assets/plugins/raphael/raphael-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/attendance.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/basic-inputs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/blank-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/blog-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/calendar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/change-password.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/change-password2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/chat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/compose.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/contacts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/create-invoice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/departments.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/designations.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/edit-blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/edit-employee.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/edit-exam.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/edit-invoice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/edit-parent.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/edit-profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/edit-student.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/edit-teacher.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/email-settings.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/employees-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/error-404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/error-500.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/exam-detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/exam-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/expense-reports.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/expenses.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/forgot-password.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/form-basic-inputs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/form-horizontal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/form-input-groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/form-vertical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/gallery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/holidays.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/inbox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/incoming-call.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/invoice-reports.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/invoice-settings.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/invoice-view.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/invoices.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/leave-type.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/leaves.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/localization.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/lock-screen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/mail-view.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/my-profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/next.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/notifications-settings.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/parent-profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/parents-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/payments.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/provident-fund.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/roles-permissions.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/salary-settings.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/salary-view.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/salary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/settings.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/AddStudent.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/AddTeacher.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/AllStudent.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/AllStudentList.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/AllTeacher.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/AllTeacherList.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/EditStudent.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/EditTeacher.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/StudentProfile.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/TeacherProfile.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/Teachers.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/css/bootstrap-datetimepicker.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/css/dataTables.bootstrap4.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/css/fullcalendar.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/css/jquery.dataTables.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/css/select2.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/css/tagsinput.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/img/attachment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/img/bg-account.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/img/blog/blog-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/img/blog/blog-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/img/blog/blog-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/img/blog/blog-04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/img/blog/blog-thumb-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/img/blog/blog-thumb-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/img/blog/blog-thumb-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/img/blog/blog-thumb-04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/img/calander.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/img/placeholder-thumb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/img/placeholder.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/img/user-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/img/user-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/img/user-04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/img/user-05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/img/user-06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/img/user.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/img/video-call.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/js/bootstrap-datetimepicker.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/js/chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/js/dataTables.bootstrap4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/js/fullcalendar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/js/html5shiv.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/js/jquery-3.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/js/jquery.dataTables.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/js/jquery.fullcalendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/js/jquery.slimscroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/js/modernizr.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/js/moment.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/js/respond.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/js/select2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/js/tagsinput.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/plugins/light-gallery/css/lg-fb-comment-box.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/plugins/light-gallery/css/lg-fb-comment-box.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/plugins/light-gallery/css/lg-transitions.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/plugins/light-gallery/css/lg-transitions.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/plugins/light-gallery/css/lightgallery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/plugins/light-gallery/css/lightgallery.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/plugins/light-gallery/fonts/lg.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/plugins/light-gallery/fonts/lg.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/plugins/light-gallery/fonts/lg.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/plugins/light-gallery/fonts/lg.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/plugins/light-gallery/img/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/plugins/light-gallery/img/video-play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/plugins/light-gallery/img/vimeo-play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/plugins/light-gallery/img/youtube-play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/plugins/light-gallery/js/lightgallery-all.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/plugins/light-gallery/js/lightgallery-all.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/plugins/light-gallery/js/lightgallery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/plugins/light-gallery/js/lightgallery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/plugins/morris/morris.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/plugins/morris/morris.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/plugins/morris/morris.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/plugins/raphael/raphael-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/assets/styles/app.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/axiosInstance.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/student-profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/students-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/tables-basic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/tables-datatables.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/tabs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/taxes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/teachers-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/theme-settings.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/typography.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/uikit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/users.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/video-call.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/voice-call.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cydeo-training-ui-master/webpack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dnGrep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dotnet-podcasts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eu4-bookit-project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eu4-jdbc-practice" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ezanVakti" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../justdecompile-plugins" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../maui-samples" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../maui-samples-telerik" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mobiquity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pray-times-module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prayer-times" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../selenium-java-page-factory" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../transMuda" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../transMudaProject" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../transmudaEU4gr13" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web_scraping" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -417,14 +27,14 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "susaglam"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;susaglam&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -433,8 +43,14 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/spartanTest/getSpartanTest.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -451,9 +67,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/GitHub/Serenity-Review",
+    "last_opened_file_path": "E:/GitHub/Serenity-Spartan-Review",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -461,14 +77,14 @@
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.scopes",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.getSpartanTest.test1">
+  <component name="RunManager" selected="JUnit.getSpartanTest">
     <configuration name="getSpartanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="EU10-Serenity-Review" />
+      <module name="Serenity-Sparta-Review" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="spartanTest.*" />
@@ -483,7 +99,7 @@
       </method>
     </configuration>
     <configuration name="getSpartanTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="EU10-Serenity-Review" />
+      <module name="Serenity-Sparta-Review" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="spartanTest.*" />
@@ -499,7 +115,7 @@
       </method>
     </configuration>
     <configuration name="postSpartanTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="EU10-Serenity-Review" />
+      <module name="Serenity-Sparta-Review" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="spartanTest.*" />
@@ -514,10 +130,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Serenity-Sparta-Review" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Serenity-Sparta-Review" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.getSpartanTest.test1" />
         <item itemvalue="JUnit.getSpartanTest" />
+        <item itemvalue="JUnit.getSpartanTest.test1" />
         <item itemvalue="JUnit.postSpartanTest.test1" />
       </list>
     </recent_temporary>
@@ -562,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691257087118</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="project created">
+      <option name="closed" value="true" />
+      <created>1691257465500</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691257465500</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -573,19 +210,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="main" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -593,6 +218,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="project created" />
