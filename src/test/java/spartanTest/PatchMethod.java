@@ -3,7 +3,6 @@ package spartanTest;
 import io.restassured.http.*;
 import io.restassured.response.*;
 import org.junit.jupiter.api.*;
-import week2.*;
 
 import java.util.*;
 

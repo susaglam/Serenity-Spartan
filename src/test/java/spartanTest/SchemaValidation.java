@@ -1,30 +1,39 @@
 package spartanTest;
 
-import com.github.fge.jsonschema.main.*;
-import io.restassured.*;
-import io.restassured.http.*;
-import io.restassured.module.jsv.*;
-import io.restassured.response.*;
-import org.junit.jupiter.api.*;
-import week2.*;
+import com.fasterxml.jackson.databind.JsonNode;
+import com.github.fge.jsonschema.core.exceptions.ProcessingException;
+import com.github.fge.jsonschema.main.JsonSchema;
+import com.github.fge.jsonschema.main.JsonSchemaFactory;
+import io.restassured.RestAssured;
+import io.restassured.http.ContentType;
+import io.restassured.response.Response;
+import org.junit.jupiter.api.Test;
 
-import java.io.*;
+import java.io.File;
+import java.io.IOException;
+import java.util.Objects;
 
 public class SchemaValidation extends TestBase {
 
     @Test
-    public void test1(){
+    public void test1() throws IOException, ProcessingException {
         Response response = RestAssured.given().accept(ContentType.JSON)
                 .when().get("http://3.216.30.92:8000/api/spartans/4")
-                .then().body(JsonSchemaValidator.matchesJsonSchemaInClasspath("singleSpartanSchema.json"))
-                .extract().response();
+                .then().extract().response();
+
+        JsonSchemaFactory schemaFactory = JsonSchemaFactory.byDefault();
+        JsonSchema schema = schemaFactory.getJsonSchema(Objects.requireNonNull(getClass().getResourceAsStream("/singleSpartanSchema.json")).toString());
+        schema.validate((JsonNode) response.getBody());
     }
 
     @Test
-    public void test2(){
+    public void test2() throws IOException, ProcessingException {
         Response response = RestAssured.given().accept(ContentType.JSON)
                 .when().get("http://3.216.30.92:8000/api/spartans")
-                .then().body(JsonSchemaValidator.matchesJsonSchema(new File("C:\\Users\\Zulpikar\\IdeaProjects\\EU10_API_Testing_Review\\src\\test\\java\\week4\\allSpartansSchema.json")))
-                .extract().response();
+                .then().extract().response();
+
+        JsonSchemaFactory schemaFactory = JsonSchemaFactory.byDefault();
+        JsonSchema schema = schemaFactory.getJsonSchema(String.valueOf(new File("E:\\GitHub\\Serenity-Spartan-Review\\src\\test\\java\\spartanTest\\allSpartansSchema.json")));
+        schema.validate((JsonNode) response.getBody());
     }
 }

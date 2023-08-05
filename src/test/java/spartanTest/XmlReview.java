@@ -1,12 +1,10 @@
 package spartanTest;
 
-import com.fasterxml.jackson.annotation.*;
-import io.restassured.http.*;
-import io.restassured.path.json.*;
-import io.restassured.path.xml.*;
-import io.restassured.response.*;
-import org.junit.jupiter.api.*;
-import week2.*;
+import io.restassured.http.ContentType;
+import io.restassured.path.xml.XmlPath;
+import io.restassured.response.Response;
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
 
 import static io.restassured.RestAssured.given;
 

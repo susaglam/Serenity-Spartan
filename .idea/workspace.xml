@@ -5,9 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9a2a273-7417-47f8-8832-955dfa6e9cbb" name="Changes" comment="project created">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/JsonToJavaObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/JsonToJavaObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/ParametrizeTesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/ParametrizeTesting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/PatchMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/PatchMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/PostMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/PostMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/PutMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/PutMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/SchemaValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/SchemaValidation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/TimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/TimeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/XmlReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/XmlReview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/ZipCodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/ZipCodeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/postSpartanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/postSpartanTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +28,9 @@
     <option name="groupingKeys">
       <option value="directory" />
     </option>
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -82,7 +95,27 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.getSpartanTest">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GitHub\Serenity-Spartan-Review\src\test\java\spartanTest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SchemaValidation">
+    <configuration name="SchemaValidation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Serenity-Sparta-Review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spartanTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="spartanTest" />
+      <option name="MAIN_CLASS_NAME" value="spartanTest.SchemaValidation" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="getSpartanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Serenity-Sparta-Review" />
       <extension name="coverage">
@@ -145,6 +178,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SchemaValidation" />
         <item itemvalue="JUnit.getSpartanTest" />
         <item itemvalue="JUnit.getSpartanTest.test1" />
         <item itemvalue="JUnit.postSpartanTest.test1" />
@@ -199,7 +233,23 @@
       <option name="project" value="LOCAL" />
       <updated>1691257465500</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="project created">
+      <option name="closed" value="true" />
+      <created>1691260260257</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691260260257</updated>
+    </task>
+    <task id="LOCAL-00007" summary="project created">
+      <option name="closed" value="true" />
+      <created>1691260692244</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1691260692244</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

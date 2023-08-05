@@ -22,6 +22,14 @@
             <version>3.9.8</version>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/com.github.fge/json-schema-validator -->
+        <dependency>
+            <groupId>com.github.fge</groupId>
+            <artifactId>json-schema-validator</artifactId>
+            <version>2.2.6</version>
+        </dependency>
+
+
         <dependency>
             <groupId>net.serenity-bdd</groupId>
             <artifactId>serenity-rest-assured</artifactId>
@@ -39,6 +47,12 @@
             <groupId>io.github.fabianlinz</groupId>
             <artifactId>serenity-junit5</artifactId>
             <version>1.6.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.maven.surefire</groupId>
+            <artifactId>surefire-shared-utils</artifactId>
+            <version>3.1.2</version>
+            <scope>test</scope>
         </dependency>
     </dependencies>
 

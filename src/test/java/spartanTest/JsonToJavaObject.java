@@ -5,7 +5,7 @@ import io.restassured.http.*;
 import io.restassured.path.json.*;
 import io.restassured.response.*;
 import org.junit.jupiter.api.*;
-import week2.POJO.*;
+import spartanTest.POJO.*;
 
 import java.util.*;
 

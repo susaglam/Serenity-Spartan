@@ -6,7 +6,6 @@ import io.restassured.response.*;
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.params.*;
 import org.junit.jupiter.params.provider.*;
-import week2.*;
 
 import java.util.*;
 
@@ -65,9 +64,9 @@ public class ParametrizeTesting extends TestBase {
     @CsvFileSource(resources = "/SpartanDataPOST.csv", numLinesToSkip = 1)
     public void csvFileSource(String name, String gender, Long phone) {
         Map<String, Object> body = new HashMap<>();
-        body.put("name",name);
-        body.put("gender",gender);
-        body.put("phone",phone);
+        body.put("name", name);
+        body.put("gender", gender);
+        body.put("phone", phone);
 
         Response response = given().accept(ContentType.JSON)
                 .and().contentType(ContentType.JSON)
@@ -75,9 +74,5 @@ public class ParametrizeTesting extends TestBase {
                 .when().post("/api/spartans");
 
         response.prettyPrint();
-
-
     }
-
-
 }

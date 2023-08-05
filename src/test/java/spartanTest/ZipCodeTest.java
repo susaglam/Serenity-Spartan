@@ -1,9 +1,10 @@
 package spartanTest;
 
-import io.restassured.http.*;
-import io.restassured.response.*;
-import org.junit.jupiter.api.*;
-import week2.POJO.*;
+import io.restassured.http.ContentType;
+import io.restassured.response.Response;
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
+import spartanTest.POJO.ByPostCode;
 
 import static io.restassured.RestAssured.given;
 
