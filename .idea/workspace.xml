@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9a2a273-7417-47f8-8832-955dfa6e9cbb" name="Changes" comment="explanation added" />
+    <list default="true" id="d9a2a273-7417-47f8-8832-955dfa6e9cbb" name="Changes" comment="readme.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -295,7 +295,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691322344616</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="readme.md">
+      <option name="closed" value="true" />
+      <created>1691322761628</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1691322761628</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,6 +329,7 @@
     <MESSAGE value="updated dependency and SchemaValidation" />
     <MESSAGE value="properties and extend base" />
     <MESSAGE value="explanation added" />
-    <option name="LAST_COMMIT_MESSAGE" value="explanation added" />
+    <MESSAGE value="readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme.md" />
   </component>
 </project>
