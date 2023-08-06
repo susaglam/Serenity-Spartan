@@ -56,7 +56,4 @@ Contributions are welcome! If you find any issues or want to add new features, p
 
 ## Author
 
-Sukru Saglam (core code From CYDEO)
-
----
-**Note**: Customize the API documentation link, contact details, and other sections as needed to fit your project.
+Sukru Saglam (core code cloned From CYDEO)
