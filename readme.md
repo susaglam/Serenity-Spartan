@@ -54,10 +54,6 @@ The Spartan API documentation can be found at `http://xxxx:8000/api-docs` for re
 
 Contributions are welcome! If you find any issues or want to add new features, please feel free to create a pull request or open an issue.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Author
 
 Sukru Saglam (core code From CYDEO)
