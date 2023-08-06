@@ -1,4 +1,4 @@
-# Serenity Spartan Review
+# Serenity Spartan
 
 [![Java](https://img.shields.io/badge/Java-11-blue)](https://www.java.com/en/)
 [![Serenity BDD](https://img.shields.io/badge/Serenity%20BDD-3.9.8-orange)](https://serenity-bdd.github.io/theserenitybook/latest/index.html)
