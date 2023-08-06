@@ -1,21 +1,23 @@
 package spartanTest;
 
-import io.restassured.*;
-import io.restassured.http.*;
-import io.restassured.path.json.*;
-import io.restassured.response.*;
-import org.junit.jupiter.api.*;
+import io.restassured.RestAssured;
+import io.restassured.http.ContentType;
+import io.restassured.response.Response;
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
 
-public class FirstTest {
+public class FirstTest extends TestBase {
 
-
+    //public class FirstTest { //get properties with serenity.properties
     // test status code and headers
     @Test
     public void test1() {
         Response response = RestAssured.given().accept(ContentType.JSON)
-                .when().get("http://3.216.30.92:8000/api/spartans");
+                .when().get("/api/spartans");
+              //.when().get( properties.getProperty(baseURI) + "/api/spartans"); //get with properties data
 
         System.out.println(response.statusCode());
         Assertions.assertEquals(200, response.statusCode(), "Test status code");
@@ -30,7 +32,7 @@ public class FirstTest {
     @Test
     public void test2() {
         Response response = RestAssured.given().accept(ContentType.JSON)
-                .when().get("http://3.216.30.92:8000/api/spartans/30");
+                .when().get("/api/spartans/30");
 
         System.out.println(response.statusCode());
         response.prettyPrint();
@@ -49,7 +51,7 @@ public class FirstTest {
     public void test3() {
         Response response = RestAssured.given().accept(ContentType.JSON)
                 .and().queryParam("nameContains", "Da")
-                .when().get("http://3.216.30.92:8000/api/spartans/search");
+                .when().get("/api/spartans/search");
 
         System.out.println(response.statusCode());
         response.prettyPrint();
@@ -60,7 +62,7 @@ public class FirstTest {
     public void test4() {
         Response response = RestAssured.given().accept(ContentType.JSON)
                 .and().queryParam("gender", "Male")
-                .when().get("http://3.216.30.92:8000/api/spartans/search");
+                .when().get("/api/spartans/search");
 
         System.out.println(response.statusCode());
         response.prettyPrint();
@@ -72,7 +74,7 @@ public class FirstTest {
         Response response = RestAssured.given().accept(ContentType.JSON)
                 .and().queryParam("gender", "Male")
                 .and().queryParam("nameContains", "e")
-                .when().get("http://3.216.30.92:8000/api/spartans/search");
+                .when().get("/api/spartans/search");
 
         System.out.println(response.statusCode());
         response.prettyPrint();
@@ -87,7 +89,7 @@ public class FirstTest {
 
         Response response = RestAssured.given().accept(ContentType.JSON)
                 .and().queryParams(query)
-                .when().get("http://3.216.30.92:8000/api/spartans/search");
+                .when().get("/api/spartans/search");
 
         response.prettyPrint();
 
