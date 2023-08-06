@@ -4,11 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9a2a273-7417-47f8-8832-955dfa6e9cbb" name="Changes" comment="updated dependency and SchemaValidation">
-      <change afterPath="$PROJECT_DIR$/src/test/java/spartanTest/utilities/ConfigurationReader.java" afterDir="false" />
+    <list default="true" id="d9a2a273-7417-47f8-8832-955dfa6e9cbb" name="Changes" comment="properties and extend base">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serenity.properties" beforeDir="false" afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/BookItAuth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/BookItAuth.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/FirstTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/HamcrestMatchers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/HamcrestMatchers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/JsonPathReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/JsonPathReview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/JsonToJavaObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/JsonToJavaObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/ParametrizeTesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/ParametrizeTesting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/PatchMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/PatchMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/PathParams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/PathParams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/PostMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/PostMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/PutMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/PutMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/SchemaValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/SchemaValidation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/SpartanAuth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/SpartanAuth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/SpartanSpecBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/SpartanSpecBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/XmlReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/XmlReview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/ZipCodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/ZipCodeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/deleteMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/deleteMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/getSpartanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/getSpartanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/postSpartanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/postSpartanTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +110,7 @@
       <recent name="spartanTest.utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.deleteMethod.test1">
+  <component name="RunManager" selected="JUnit.SchemaValidation.test1">
     <configuration name="BookItAuth.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Serenity-Sparta-Review" />
       <extension name="coverage">
@@ -107,6 +123,21 @@
       <option name="MAIN_CLASS_NAME" value="spartanTest.BookItAuth" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonPathReview" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Serenity-Sparta-Review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spartanTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="spartanTest" />
+      <option name="MAIN_CLASS_NAME" value="spartanTest.JsonPathReview" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -126,6 +157,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SchemaValidation.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Serenity-Sparta-Review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spartanTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="spartanTest" />
+      <option name="MAIN_CLASS_NAME" value="spartanTest.SchemaValidation" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="deleteMethod.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Serenity-Sparta-Review" />
       <extension name="coverage">
@@ -136,37 +183,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="spartanTest" />
       <option name="MAIN_CLASS_NAME" value="spartanTest.deleteMethod" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="getSpartanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Serenity-Sparta-Review" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="spartanTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="spartanTest" />
-      <option name="MAIN_CLASS_NAME" value="spartanTest.getSpartanTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="getSpartanTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Serenity-Sparta-Review" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="spartanTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="spartanTest" />
-      <option name="MAIN_CLASS_NAME" value="spartanTest.getSpartanTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -188,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SchemaValidation.test1" />
+        <item itemvalue="JUnit.JsonPathReview" />
         <item itemvalue="JUnit.deleteMethod.test1" />
         <item itemvalue="JUnit.BookItAuth.test1" />
         <item itemvalue="JUnit.SchemaValidation" />
-        <item itemvalue="JUnit.getSpartanTest" />
-        <item itemvalue="JUnit.getSpartanTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +300,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691263124904</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="properties and extend base">
+      <option name="closed" value="true" />
+      <created>1691320054186</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1691320054186</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,6 +332,7 @@
     </ignored-roots>
     <MESSAGE value="project created" />
     <MESSAGE value="updated dependency and SchemaValidation" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated dependency and SchemaValidation" />
+    <MESSAGE value="properties and extend base" />
+    <option name="LAST_COMMIT_MESSAGE" value="properties and extend base" />
   </component>
 </project>

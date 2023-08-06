@@ -5,7 +5,6 @@ import com.fasterxml.jackson.annotation.*;
 import java.util.*;
 
 
-
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class SpartanSearch {
 
