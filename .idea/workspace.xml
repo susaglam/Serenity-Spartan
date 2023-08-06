@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9a2a273-7417-47f8-8832-955dfa6e9cbb" name="Changes" comment="properties and extend base">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/BookItAuth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/BookItAuth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/FirstTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/HamcrestMatchers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/HamcrestMatchers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/JsonPathReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/JsonPathReview.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/JsonToJavaObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/JsonToJavaObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/ParametrizeTesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/ParametrizeTesting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/PatchMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/PatchMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/PathParams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/PathParams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/PostMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/PostMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/PutMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/PutMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/SchemaValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/SchemaValidation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/SpartanAuth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/SpartanAuth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/SpartanSpecBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/SpartanSpecBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/XmlReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/XmlReview.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/ZipCodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/ZipCodeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/deleteMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/deleteMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/getSpartanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/getSpartanTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/spartanTest/postSpartanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spartanTest/postSpartanTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="d9a2a273-7417-47f8-8832-955dfa6e9cbb" name="Changes" comment="explanation added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -308,7 +287,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691320054186</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="explanation added">
+      <option name="closed" value="true" />
+      <created>1691322344616</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1691322344616</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -333,6 +320,7 @@
     <MESSAGE value="project created" />
     <MESSAGE value="updated dependency and SchemaValidation" />
     <MESSAGE value="properties and extend base" />
-    <option name="LAST_COMMIT_MESSAGE" value="properties and extend base" />
+    <MESSAGE value="explanation added" />
+    <option name="LAST_COMMIT_MESSAGE" value="explanation added" />
   </component>
 </project>
